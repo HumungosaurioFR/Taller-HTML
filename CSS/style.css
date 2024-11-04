@@ -4,6 +4,13 @@ img{
 h1{
     margin-top: 30px;
 }
+h2{
+    margin-top: 30px;
+    color: #f9ff82;
+}
+h6{
+    color: #f9ff82;
+}
 
 .text{
     display: flex; 
@@ -18,3 +25,4 @@ p{
     width: 300px; 
     margin-left: 10px;
 }
+
